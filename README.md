@@ -1,4 +1,4 @@
-# Hi there 👋 I'm @w-lambda-6
+# Hi there 👋 I'm Ma Gaoyuan
 My name is **Ma Gaoyuan**, you may call me **Tony**. I'm currently an undergraduate in computer science at **Nanyang Technological University** (NTU), Singapore. I'm diligent and love to learn. Interested in **AI, Databases, software development.**
 - 🔭 I’m currently working on a high performance linux webserver
 - 🌱 I’m currently learning DL, pytorch, high performance C/C++ programming in the linux environment 
